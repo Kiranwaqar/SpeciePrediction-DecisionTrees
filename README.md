@@ -8,8 +8,8 @@ https://github.com/user-attachments/assets/3c5bc1fe-0266-4067-94b1-eca1e8b21080
 ## How to Run the Project
 Clone the repository:
 ```bash
-git clone https://github.com/Kiranwaqar/iris-decision-tree.git
-cd iris-decision-tree
+git clone https://github.com/Kiranwaqar/SpeciePrediction-DecisionTrees.git
+cd Level_2_Task_2
 ```
 Install dependencies:
 ```bash
