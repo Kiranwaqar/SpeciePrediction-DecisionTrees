@@ -3,8 +3,7 @@ This project implements a Decision Tree classifier to predict the species of iri
 
 ## Demo
 
-
-
+https://github.com/user-attachments/assets/3c5bc1fe-0266-4067-94b1-eca1e8b21080
 
 ## How to Run the Project
 Clone the repository:
@@ -32,6 +31,4 @@ You can control pruning using:
 ```python
 DecisionTreeClassifier(max_depth=3)
 ```
-
-Uploading demo.mp4…
 
